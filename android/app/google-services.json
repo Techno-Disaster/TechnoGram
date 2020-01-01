@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "389311779156",
+    "firebase_url": "https://technogram-4a7d5.firebaseio.com",
+    "project_id": "technogram-4a7d5",
+    "storage_bucket": "technogram-4a7d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389311779156:android:94c2067abaac1775b7b8c1",
+        "android_client_info": {
+          "package_name": "com.technodisaster.technogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389311779156-vrqg1o1v9nl47irtes1n0f2c0o3v8dgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJW71ZDcSkux3myfCt4_Gj1Gs6RkzY16Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389311779156-vrqg1o1v9nl47irtes1n0f2c0o3v8dgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
