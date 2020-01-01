@@ -4,6 +4,13 @@ Technogram is a project that I started to improve my Android Development knowled
 
 It uses [Firebase's](https://firebase.google.com) Authentication/Database/Storage/Messaging/CrashReporting libraries for it's implementation and several other libraries.
 
+
+![loginandregistration](https://github.com/Techno-Disaster/TechnoGram/blob/6d589492af3f71a350157754b0102f51ddbefbd9/images/HiShoot_20200102_050210.png)
+<img src=https://github.com/Techno-Disaster/TechnoGram/blob/6d589492af3f71a350157754b0102f51ddbefbd9/images/HiShoot_20200102_050225.png width="49%">
+<img src=https://github.com/Techno-Disaster/TechnoGram/blob/6d589492af3f71a350157754b0102f51ddbefbd9/images/HiShoot_20200102_050236.png width="50%">
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
