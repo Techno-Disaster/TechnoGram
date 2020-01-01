@@ -1,6 +1,8 @@
-# technogram
+# Technogram
 
-A new Flutter project.
+Technogram is a project that I started to improve my Android Development knowledge and the first of my speed coding UI series. Later on I have decided to make it public, open source and maybe i will publish it on Play Store.
+
+It uses [Firebase's](https://firebase.google.com) Authentication/Database/Storage/Messaging/CrashReporting libraries for it's implementation and several other libraries.
 
 ## Getting Started
 
